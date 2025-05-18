@@ -1,6 +1,7 @@
 # BetterLuau
 - BetterLuau is a version of Luau with better and more concise syntax, for people who are annoyed with Luau's long keyword names.
 - It is a superset of Luau, meaning it still supports regular Luau syntax.
+- This language isn't usable yet as I am currently working on the transpiler that I will release here in the near future.
 - Example:
 ```luau
 -- local function
