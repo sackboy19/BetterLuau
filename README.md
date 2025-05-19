@@ -25,7 +25,6 @@ print("Hello")
 2. `fn` is another way to represent `function`
 3. `bool` is another way to represent `boolean`
 4. `int` and `float` can be used to represent `number`, this doesn't change the underlying data-type, however it provides a bit more clarity into how you expect the variable to be used.
-5. 
 
 # Other information
 - I will most likely add things in the future, however things like using curly braces `{}` for scopes instead of `then` `end` is something I probably will not add, as Luau already is very table heavy, and curly braces are everywhere. I belive this change would be too annoying for a transpiler at the moment. However my opinion may change in the future.
